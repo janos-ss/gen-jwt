@@ -2,7 +2,7 @@
 # pip install -r requirements.txt
 asn1crypto==0.24.0
 cffi==1.12.2
-cryptography==2.6.1
+cryptography==3.2
 pycparser==2.19
 PyJWT==1.7.1
 six==1.12.0
